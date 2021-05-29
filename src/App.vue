@@ -17,7 +17,7 @@
 </template>
 
 <script>
-
+import "milligram";
 export default {
 
   data() {
@@ -43,6 +43,12 @@ methods: {
 
 </script>
 
+
+
 <style>
+a{
+  color:blue;
+};
+
 
 </style>
